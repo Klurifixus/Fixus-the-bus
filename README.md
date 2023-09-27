@@ -48,7 +48,8 @@ Steps I´ve done on FIXUS-THE-BUS:
 16. added logo and fontfamily in header.(both css and html)
 17. create nav in header and href to the existing html files: index,contact and blogg.
 18. styled header with influens from love running for now. will change the later on.
-19. 
+19. added box-shadow for now... made it thick so i remember it.
+
 
 
 

@@ -30,8 +30,17 @@ header {
 
 }
 
+header a{
+    text-decoration: none;
+    color: inherit;
+
+
+}
 h1{
     font-family: 'montserrat' sans-serif;
+    text-transform: capitalize;
+    letter-spacing: normal;
+    color: #EEEEEE;
 }
 
 
@@ -40,6 +49,7 @@ main {
     background-color: #176b87;
     /*Surplus space in main*/
     flex: 1 0 auto;
+    padding-top: 140px;
 }
 
 
