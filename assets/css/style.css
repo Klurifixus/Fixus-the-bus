@@ -13,7 +13,8 @@ body {
     display: flex;
     flex-direction: column;
     /*project style*/
-color: #EEEEEE
+    color: #EEEEEE;
+    font-family: 'montserrat', sans-serif;
 
 }
 
