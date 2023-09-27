@@ -43,6 +43,12 @@ h1{
     color: #EEEEEE;
 }
 
+menu{
+    font-size: medium;
+    letter-spacing: normal;
+    list-style-type: none;
+    color: #EEEEEE;
+}
 
 /*Main*/
 main {
