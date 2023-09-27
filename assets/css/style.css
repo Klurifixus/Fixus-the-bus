@@ -44,12 +44,17 @@ h1{
 }
 
 menu{
+
     font-size: medium;
     letter-spacing: normal;
     list-style-type: none;
     color: #EEEEEE;
 }
-
+.active {
+    color: #887fcb;
+    text-transform: capitalize;
+    
+}
 /*Main*/
 main {
     background-color: #176b87;

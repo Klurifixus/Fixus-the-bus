@@ -49,6 +49,9 @@ Steps I´ve done on FIXUS-THE-BUS:
 17. create nav in header and href to the existing html files: index,contact and blogg.
 18. styled header with influens from love running for now. will change the later on.
 19. added box-shadow for now... made it thick so i remember it.
+20. created menu class and id linked to th ul. style it for now.
+21. created .active for home but looking to change it to another color when im on that page. 
+22. added changes to .active so they are more like i wanted them to be. more discreate
 
 
 
