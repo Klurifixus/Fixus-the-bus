@@ -7,13 +7,20 @@
     margin: 0;
     box-sizing:border-box
 }
+/*General style*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*project style*/
+color: #EEEEEE
 
-
+}
 
 
 /*Header*/
 header {
-    background-color: lightseagreen;
+    background-color: #053b50;
 }
 
 
@@ -21,7 +28,9 @@ header {
 
 /*Main*/
 main {
-    background-color: rgb(8, 78, 136);
+    background-color: #176b87;
+    /*Surplus space in main*/
+    flex: 1 0 auto;
 }
 
 
@@ -29,5 +38,5 @@ main {
 
 /*Footer*/
 footer {
-    background-color: azure;
+    background-color: #64ccc5;
 }

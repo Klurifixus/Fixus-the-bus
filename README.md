@@ -41,6 +41,9 @@ Steps I´ve done on FIXUS-THE-BUS:
 10. Added stylesheet thru emmet in index.html, changed path thru href"
 
 11. Added asterisk wildcard to style.css. it should be highest because it needs to over-rule all the other. 
+12. Realized favicon did´nt work. So updated the href and now the path is right.
+13. added general style and project style, relized i needed to change background color to the pallette i choosen.
+14. Also made the footer to be pushed to bottom by guidence of love running. (didnt remember the settings fully) 
 
 
 
