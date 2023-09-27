@@ -25,6 +25,9 @@ header {
     padding: 0 2rem;
     position: fixed;
     z-index: 99;
+    width: 100;
+    box-shadow: 0 5px 3px #b5b6b7;
+
 }
 
 h1{
