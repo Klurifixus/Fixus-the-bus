@@ -33,7 +33,14 @@ Steps I´ve done on FIXUS-THE-BUS:
 
 8. Import fonts from fonts.Google.com to style css.
 
+9. Found pallette on colorhunt that i will use. Will be these so far(
+#053B50 rgb(5, 59, 80)
+#176B87 rgb(23, 107, 135)
+#64CCC5 rgb(100, 204, 197)
+#EEEEEE rgb(238, 238, 238)
+10. Added stylesheet thru emmet in index.html, changed path thru href"
 
+11. Added asterisk wildcard to style.css. it should be highest because it needs to over-rule all the other. 
 
 
 

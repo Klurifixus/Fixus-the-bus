@@ -1,2 +1,33 @@
 /*google fonts import --- font-family: 'Montserrat', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/*Asterisk wildcard*/
+* {
+    padding : 0;
+    margin: 0;
+    box-sizing:border-box
+}
+
+
+
+
+/*Header*/
+header {
+    background-color: lightseagreen;
+}
+
+
+
+
+/*Main*/
+main {
+    background-color: rgb(8, 78, 136);
+}
+
+
+
+
+/*Footer*/
+footer {
+    background-color: azure;
+}
