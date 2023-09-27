@@ -45,7 +45,11 @@ Steps I´ve done on FIXUS-THE-BUS:
 13. added general style and project style, relized i needed to change background color to the pallette i choosen.
 14. Also made the footer to be pushed to bottom by guidence of love running. (didnt remember the settings fully) 
 15. Put font-family in the body of css. right now montserrat and sanserif but that might change in the futur.
-16. 
+16. added logo and fontfamily in header.(both css and html)
+17. create nav in header and href to the existing html files: index,contact and blogg.
+18. styled header with influens from love running for now. will change the later on.
+19. 
+
 
 
 
